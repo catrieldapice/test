@@ -1,0 +1,10 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+.size-carousel {
+    width: 980px;
+    height: 400px;
+}
